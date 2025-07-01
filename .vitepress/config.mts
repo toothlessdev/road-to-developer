@@ -6,6 +6,7 @@ import path from "path";
 export default defineConfig({
     title: "Road To Developer",
     description: "개발자 취준을 위한 CS 지식 정리",
+    base: "/road-to-developer/",
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
